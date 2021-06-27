@@ -1,3 +1,3 @@
-1. Football 
-2. Cinema
-3. Code
+1. Football ⚽
+2. Cinema 🎦
+3. Code 💻
